@@ -1,0 +1,47 @@
+{
+  "id": "FND-05",
+  "order": 11,
+  "track": "foundations",
+  "level": "A1",
+  "status": "active",
+  "title": "Survivre dans un échange simple",
+  "summary": "Phrases prêtes à l'emploi pour ralentir, demander une répétition, comprendre un mot et commander poliment.",
+  "objectives": [
+    "Utiliser Извините et пожалуйста",
+    "Demander de parler plus lentement",
+    "Demander ce qu'un mot signifie",
+    "Commander avec une structure courte"
+  ],
+  "concepts": [
+    "politeness",
+    "survival-russian",
+    "можно",
+    "пожалуйста",
+    "извините"
+  ],
+  "notes": [
+    "Apprends ces expressions comme des blocs complets avant d'essayer de tout analyser."
+  ],
+  "examples": [
+    {
+      "ru": "Извините, я не понимаю.",
+      "fr": "Excusez-moi, je ne comprends pas."
+    },
+    {
+      "ru": "Говорите медленнее, пожалуйста.",
+      "fr": "Parlez plus lentement, s'il vous plaît."
+    },
+    {
+      "ru": "Можно ещё раз?",
+      "fr": "Pouvez-vous répéter ?"
+    },
+    {
+      "ru": "Что это значит?",
+      "fr": "Qu'est-ce que cela signifie ?"
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p1-3",
+    "GH-RUSSIAN-MORNING-APP:banque-ch1-dialogue"
+  ]
+}

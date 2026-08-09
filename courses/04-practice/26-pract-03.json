@@ -1,0 +1,36 @@
+{
+  "id": "PRACT-03",
+  "order": 26,
+  "track": "practice",
+  "level": "A1",
+  "status": "active",
+  "title": "Choisir le bon verbe",
+  "summary": "Distinguer parler/comprendre/savoir, poser une question/demander quelque chose et aller selon le contexte.",
+  "objectives": [
+    "Distinguer говорить / понимать / знать",
+    "Distinguer спрашивать / просить",
+    "Distinguer идти / ехать"
+  ],
+  "concepts": [
+    "verb-choice",
+    "спрашивать-vs-просить",
+    "идти-vs-ехать",
+    "говорить-vs-сказать"
+  ],
+  "notes": [
+    "Regarde ce que fait réellement la personne."
+  ],
+  "examples": [
+    {
+      "ru": "Я спрашиваю официанта.",
+      "fr": "Je pose une question au serveur."
+    },
+    {
+      "ru": "Я прошу чай.",
+      "fr": "Je demande du thé."
+    }
+  ],
+  "source_refs": [
+    "GH-RUSSIAN-MORNING-APP:series-traduction"
+  ]
+}

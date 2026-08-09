@@ -1,0 +1,40 @@
+{
+  "id": "GRM-07",
+  "order": 15,
+  "track": "core-grammar",
+  "level": "A1",
+  "status": "active",
+  "title": "Le passé : -л, -ла, -ли",
+  "summary": "Reconnaître rapidement le genre et le nombre dans les formes passées fréquentes.",
+  "objectives": [
+    "Reconnaître устал / устала / устали",
+    "Former работал / работала",
+    "Reconnaître les passés pluriels en -ли"
+  ],
+  "concepts": [
+    "past-tense",
+    "past-gender",
+    "past-number"
+  ],
+  "notes": [
+    "Au passé, le russe marque fortement le genre au singulier."
+  ],
+  "examples": [
+    {
+      "ru": "Он устал.",
+      "fr": "Il est fatigué."
+    },
+    {
+      "ru": "Она устала.",
+      "fr": "Elle est fatiguée."
+    },
+    {
+      "ru": "Они устали.",
+      "fr": "Ils sont fatigués."
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p1",
+    "GH-RUSSIAN-MORNING-APP:series-traduction"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GRM-08",
+  "order": 16,
+  "track": "core-grammar",
+  "level": "A1",
+  "status": "active",
+  "title": "Я n'est pas toujours 'moi' — меня, мне, тебя, тебе",
+  "summary": "Commencer à reconnaître les pronoms selon leur rôle dans la phrase.",
+  "objectives": [
+    "Distinguer Я / меня / мне",
+    "Distinguer ты / тебя / тебе",
+    "Reconnaître ему / ей dans des phrases fréquentes"
+  ],
+  "concepts": [
+    "pronoun-cases",
+    "accusative-pronouns",
+    "dative-pronouns"
+  ],
+  "notes": [
+    "Relie chaque forme à des constructions concrètes plutôt que réciter un tableau."
+  ],
+  "examples": [
+    {
+      "ru": "Меня зовут Тони.",
+      "fr": "Je m'appelle Tony."
+    },
+    {
+      "ru": "Мне нравится кофе.",
+      "fr": "J'aime le café."
+    },
+    {
+      "ru": "Я тебя вижу.",
+      "fr": "Je te vois."
+    },
+    {
+      "ru": "Тебе нравится чай?",
+      "fr": "Tu aimes le thé ?"
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p4-6",
+    "GH-RUSSIAN-MORNING-APP:series-traduction"
+  ]
+}

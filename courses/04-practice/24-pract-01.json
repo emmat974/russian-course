@@ -1,0 +1,32 @@
+{
+  "id": "PRACT-01",
+  "order": 24,
+  "track": "practice",
+  "level": "A1",
+  "status": "active",
+  "title": "Traduction active par familles verbales",
+  "summary": "Produire des phrases complètes autour des huit familles de l'ancienne application.",
+  "objectives": [
+    "Produire plutôt que reconnaître",
+    "Varier pronoms et compléments",
+    "Distinguer des verbes proches"
+  ],
+  "concepts": [
+    "active-translation",
+    "retrieval-practice",
+    "verb-families"
+  ],
+  "notes": [
+    "Le contexte français reste visible.",
+    "Les accents toniques ne sont jamais obligatoires."
+  ],
+  "examples": [
+    {
+      "ru": "Она говорит, что работает.",
+      "fr": "Elle dit qu'elle travaille."
+    }
+  ],
+  "source_refs": [
+    "GH-RUSSIAN-MORNING-APP:series-traduction"
+  ]
+}

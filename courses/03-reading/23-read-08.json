@@ -1,0 +1,32 @@
+{
+  "id": "READ-08",
+  "order": 23,
+  "track": "reading",
+  "level": "A1-A2",
+  "status": "preview",
+  "title": "Lecture : une conversation plus naturelle",
+  "summary": "Faire le bilan d'un séjour et parler de son niveau de russe avec des phrases simples.",
+  "objectives": [
+    "Comprendre пока не очень",
+    "Comprendre мне трудно",
+    "Exprimer une progression"
+  ],
+  "concepts": [
+    "conversation",
+    "self-assessment",
+    "learning-language",
+    "мне-трудно"
+  ],
+  "notes": [
+    "Lis la conversation entière sans traduire chaque terminaison."
+  ],
+  "examples": [
+    {
+      "ru": "Я понимаю простые фразы, но мне трудно отвечать.",
+      "fr": "Je comprends les phrases simples, mais j'ai du mal à répondre."
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p16-18"
+  ]
+}

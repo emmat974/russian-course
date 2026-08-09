@@ -1,0 +1,32 @@
+{
+  "id": "READ-07",
+  "order": 22,
+  "track": "reading",
+  "level": "A1-A2",
+  "status": "preview",
+  "title": "Lecture : un problème à l'hôtel",
+  "summary": "Décrire un problème, demander de l'aide et comprendre une solution proposée.",
+  "objectives": [
+    "Comprendre не работает / воды нет",
+    "Demander ce qui s'est passé",
+    "Comprendre combien de temps attendre"
+  ],
+  "concepts": [
+    "hotel",
+    "problem-reporting",
+    "нет",
+    "requests"
+  ],
+  "notes": [
+    "Les phrases recyclent не, нет, можно et les questions."
+  ],
+  "examples": [
+    {
+      "ru": "В моей комнате не работает душ. Воды нет.",
+      "fr": "La douche ne fonctionne pas dans ma chambre. Il n'y a pas d'eau."
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p13-15"
+  ]
+}

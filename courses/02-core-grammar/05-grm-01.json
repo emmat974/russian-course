@@ -1,0 +1,38 @@
+{
+  "id": "GRM-01",
+  "order": 5,
+  "track": "core-grammar",
+  "level": "A1",
+  "title": "Мне ou Я ? — нравится",
+  "summary": "Comprendre la logique de Мне нравится ... sans essayer de calquer le français.",
+  "objectives": [
+    "Reconnaître мне comme datif de я",
+    "Utiliser мне нравится avec un nom singulier",
+    "Éviter l'erreur Я нравится"
+  ],
+  "concepts": [
+    "dative",
+    "нравиться",
+    "мне-vs-я",
+    "experiencer-construction"
+  ],
+  "notes": [
+    "Мне нравится кофе signifie littéralement quelque chose comme 'le café plaît à moi'.",
+    "Le russe ne construit donc pas cette idée comme le français 'j'aime le café'.",
+    "Avec un élément singulier : нравится. Avec plusieurs choses : нравятся."
+  ],
+  "examples": [
+    {
+      "ru": "Мне нравится кофе.",
+      "fr": "J'aime le café."
+    },
+    {
+      "ru": "Мне нравится эта музыка.",
+      "fr": "J'aime cette musique."
+    },
+    {
+      "ru": "Мне нравятся эти фотографии.",
+      "fr": "J'aime ces photos."
+    }
+  ]
+}

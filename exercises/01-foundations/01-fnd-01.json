@@ -1,0 +1,195 @@
+{
+  "exercise_set": "01-fnd-01",
+  "items": [
+    {
+      "id": "FND01-001",
+      "lesson_id": "FND-01",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Quel pronom signifie « elle » ?",
+      "answer": "она",
+      "concepts": [
+        "personal-pronouns"
+      ],
+      "error_tags": [
+        "pronoun-confusion"
+      ],
+      "options": [
+        "он",
+        "она",
+        "они",
+        "мы"
+      ]
+    },
+    {
+      "id": "FND01-002",
+      "lesson_id": "FND-01",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Quel pronom signifie « ils / elles » ?",
+      "answer": "они",
+      "concepts": [
+        "personal-pronouns"
+      ],
+      "error_tags": [
+        "pronoun-confusion"
+      ],
+      "options": [
+        "они",
+        "мы",
+        "вы",
+        "она"
+      ]
+    },
+    {
+      "id": "FND01-003",
+      "lesson_id": "FND-01",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Traduis en russe : « Je travaille. »",
+      "answer": "Я работаю.",
+      "concepts": [
+        "simple-svo",
+        "работать"
+      ],
+      "error_tags": [
+        "subject-omission",
+        "verb-form-1sg"
+      ],
+      "acceptable_answers": [
+        "Я работаю",
+        "Работаю."
+      ]
+    },
+    {
+      "id": "FND01-004",
+      "lesson_id": "FND-01",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Traduis en français : « Она говорит. »",
+      "answer": "Elle parle.",
+      "concepts": [
+        "subject-identification",
+        "говорить"
+      ],
+      "error_tags": [
+        "pronoun-confusion"
+      ],
+      "acceptable_answers": [
+        "Elle parle",
+        "Elle dit."
+      ]
+    },
+    {
+      "id": "FND01-005",
+      "lesson_id": "FND-01",
+      "type": "reorder",
+      "difficulty": 1,
+      "prompt": "Remets les mots dans l'ordre : « Nous lisons. »",
+      "answer": "Мы читаем.",
+      "concepts": [
+        "simple-svo"
+      ],
+      "error_tags": [
+        "word-order"
+      ],
+      "tokens": [
+        "читаем",
+        "Мы"
+      ]
+    },
+    {
+      "id": "FND01-006",
+      "lesson_id": "FND-01",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Dans « Они знают », qui sait ?",
+      "answer": "Ils / Elles",
+      "concepts": [
+        "subject-identification"
+      ],
+      "error_tags": [
+        "pronoun-confusion"
+      ],
+      "options": [
+        "Je",
+        "Il",
+        "Ils / Elles",
+        "Nous"
+      ]
+    },
+    {
+      "id": "FND01-007",
+      "lesson_id": "FND-01",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ читаю книгу.",
+      "answer": "Я",
+      "concepts": [
+        "personal-pronouns",
+        "verb-form-1sg"
+      ],
+      "error_tags": [
+        "pronoun-confusion"
+      ]
+    },
+    {
+      "id": "FND01-008",
+      "lesson_id": "FND-01",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ работает.",
+      "answer": "Она",
+      "concepts": [
+        "subject-identification"
+      ],
+      "error_tags": [
+        "pronoun-confusion"
+      ],
+      "explanation": "Sans contexte, Она ou Он peuvent être grammaticalement possibles. L'exercice accepte les deux.",
+      "acceptable_answers": [
+        "Она",
+        "Он"
+      ]
+    },
+    {
+      "id": "FND01-009",
+      "lesson_id": "FND-01",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Quel fragment contient clairement un sujet pluriel ?",
+      "answer": "Мы читаем",
+      "concepts": [
+        "subject-identification"
+      ],
+      "error_tags": [
+        "number-confusion"
+      ],
+      "options": [
+        "Я читаю",
+        "Она читает",
+        "Мы читаем",
+        "Он знает"
+      ]
+    },
+    {
+      "id": "FND01-010",
+      "lesson_id": "FND-01",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Traduis en russe : « Ils lisent. »",
+      "answer": "Они читают.",
+      "concepts": [
+        "personal-pronouns",
+        "читать"
+      ],
+      "error_tags": [
+        "verb-form-3pl"
+      ],
+      "acceptable_answers": [
+        "Они читают",
+        "Читают."
+      ]
+    }
+  ]
+}

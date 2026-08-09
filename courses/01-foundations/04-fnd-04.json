@@ -1,0 +1,37 @@
+{
+  "id": "FND-04",
+  "order": 4,
+  "track": "foundations",
+  "level": "A1",
+  "title": "Vouloir aller quelque part",
+  "summary": "Comprendre хочу + direction et quelques destinations fréquentes.",
+  "objectives": [
+    "Reconnaître хочу = je veux",
+    "Comprendre la différence entre destination et lieu statique à un niveau intuitif",
+    "Lire des phrases courtes de type Telegram"
+  ],
+  "concepts": [
+    "хотеть",
+    "direction",
+    "в-plus-destination",
+    "куда"
+  ],
+  "notes": [
+    "Dans хочу в лес, le russe exprime naturellement 'je veux aller en forêt' sans écrire le verbe 'aller'.",
+    "Le contexte peut donc porter une partie du sens que le français exprime avec un verbe supplémentaire."
+  ],
+  "examples": [
+    {
+      "ru": "Я хочу в лес.",
+      "fr": "J'ai envie d'aller en forêt."
+    },
+    {
+      "ru": "Она хочет домой.",
+      "fr": "Elle veut rentrer chez elle / aller à la maison."
+    },
+    {
+      "ru": "Мы хотим в город.",
+      "fr": "Nous voulons aller en ville."
+    }
+  ]
+}

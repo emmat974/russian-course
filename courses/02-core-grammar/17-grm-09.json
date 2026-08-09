@@ -1,0 +1,46 @@
+{
+  "id": "GRM-09",
+  "order": 17,
+  "track": "core-grammar",
+  "level": "A1-A2",
+  "status": "preview",
+  "title": "Avec, près de, sans — с / рядом с / без",
+  "summary": "Première exposition pratique aux formes gouvernées par с, рядом с et без.",
+  "objectives": [
+    "Comprendre с Алексеем",
+    "Comprendre рядом с гостиницей",
+    "Opposer с сахаром / без сахара"
+  ],
+  "concepts": [
+    "instrumental-basic",
+    "genitive-basic",
+    "с",
+    "без",
+    "рядом-с"
+  ],
+  "notes": [
+    "Apprends d'abord les blocs fréquents."
+  ],
+  "examples": [
+    {
+      "ru": "с Алексеем",
+      "fr": "avec Alexeï"
+    },
+    {
+      "ru": "рядом с гостиницей",
+      "fr": "près de l'hôtel"
+    },
+    {
+      "ru": "с сахаром",
+      "fr": "avec du sucre"
+    },
+    {
+      "ru": "без сахара",
+      "fr": "sans sucre"
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p1-6",
+    "GH-RUSSIAN-MORNING-APP:banques"
+  ]
+}

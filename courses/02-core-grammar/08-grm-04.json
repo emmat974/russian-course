@@ -1,0 +1,36 @@
+{
+  "id": "GRM-04",
+  "order": 8,
+  "track": "core-grammar",
+  "level": "A1",
+  "title": "Accusatif : objets et direction",
+  "summary": "Première exposition contrôlée à l'accusatif dans des phrases usuelles.",
+  "objectives": [
+    "Reconnaître un objet direct simple",
+    "Voir que certains mots changent de forme",
+    "Relier в + destination à une idée de mouvement"
+  ],
+  "concepts": [
+    "accusative",
+    "direct-object",
+    "motion-direction"
+  ],
+  "notes": [
+    "Tu n'as pas besoin de mémoriser tout le tableau maintenant. Observe surtout les formes récurrentes.",
+    "Exemple utile : Я вижу машину. = Je vois la voiture."
+  ],
+  "examples": [
+    {
+      "ru": "Я вижу машину.",
+      "fr": "Je vois la voiture."
+    },
+    {
+      "ru": "Она читает книгу.",
+      "fr": "Elle lit un livre."
+    },
+    {
+      "ru": "Мы идём в школу.",
+      "fr": "Nous allons à l'école."
+    }
+  ]
+}

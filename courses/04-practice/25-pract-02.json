@@ -1,0 +1,33 @@
+{
+  "id": "PRACT-02",
+  "order": 25,
+  "track": "practice",
+  "level": "A1",
+  "status": "active",
+  "title": "Familles de mots et formes pièges",
+  "summary": "Retrouver une forme de base et ne pas confondre des mots visuellement proches.",
+  "objectives": [
+    "Relier семью à семья",
+    "Relier фотографии à фотография",
+    "Distinguer дом / дома / домой / домашний"
+  ],
+  "concepts": [
+    "word-family",
+    "lemma-recovery",
+    "infinitive-recovery",
+    "form-discrimination"
+  ],
+  "notes": [
+    "Vérifie le sens et le rôle, pas seulement la ressemblance."
+  ],
+  "examples": [
+    {
+      "ru": "семью → семья",
+      "fr": "forme dans la phrase → forme de dictionnaire"
+    }
+  ],
+  "source_refs": [
+    "GH-RUSSIAN-MORNING-APP:serie-familles",
+    "GH-RUSSIAN-MORNING-APP:serie-formes"
+  ]
+}

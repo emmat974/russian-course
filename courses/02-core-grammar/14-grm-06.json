@@ -1,0 +1,44 @@
+{
+  "id": "GRM-06",
+  "order": 14,
+  "track": "core-grammar",
+  "level": "A1",
+  "status": "active",
+  "title": "Avoir et ne pas avoir — у ... есть / нет",
+  "summary": "Comprendre la logique russe de la possession et l'absence avec нет.",
+  "objectives": [
+    "Utiliser у меня/тебя/него/неё",
+    "Former у меня есть",
+    "Former у меня нет",
+    "Reconnaître les changements après нет"
+  ],
+  "concepts": [
+    "possession",
+    "у-possessor",
+    "есть",
+    "нет",
+    "genitive-basic"
+  ],
+  "notes": [
+    "Le russe ne copie pas directement le verbe français 'avoir'.",
+    "Après нет, le nom change souvent de forme."
+  ],
+  "examples": [
+    {
+      "ru": "У меня есть телефон.",
+      "fr": "J'ai un téléphone."
+    },
+    {
+      "ru": "У меня нет телефона.",
+      "fr": "Je n'ai pas de téléphone."
+    },
+    {
+      "ru": "У него нет детей.",
+      "fr": "Il n'a pas d'enfants."
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p5-6",
+    "GH-RUSSIAN-MORNING-APP:series-traduction/avoir"
+  ]
+}

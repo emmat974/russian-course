@@ -1,0 +1,32 @@
+{
+  "id": "READ-04",
+  "order": 19,
+  "track": "reading",
+  "level": "A1",
+  "status": "active",
+  "title": "Lecture : une soirée dans une famille russe",
+  "summary": "Présentation, famille, photographie et questions personnelles simples.",
+  "objectives": [
+    "Suivre qui est qui dans la famille",
+    "Comprendre une présentation",
+    "Repérer où se passent les actions"
+  ],
+  "concepts": [
+    "reading-strategy",
+    "family",
+    "introductions",
+    "questions"
+  ],
+  "notes": [
+    "Utilise les noms, pronoms et verbes comme points d'ancrage."
+  ],
+  "examples": [
+    {
+      "ru": "Они спрашивают, откуда он, где он живёт и почему изучает русский язык.",
+      "fr": "Ils demandent d'où il vient, où il habite et pourquoi il apprend le russe."
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p4-6"
+  ]
+}

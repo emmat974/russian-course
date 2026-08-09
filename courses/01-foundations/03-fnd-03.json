@@ -1,0 +1,36 @@
+{
+  "id": "FND-03",
+  "order": 3,
+  "track": "foundations",
+  "level": "A1",
+  "title": "Что pour relier deux idées",
+  "summary": "Comprendre la structure très fréquente verbe + что + proposition.",
+  "objectives": [
+    "Reconnaître что comme 'que' dans une subordonnée",
+    "Découper une phrase en deux propositions",
+    "Comprendre des phrases comme Она говорит, что работает"
+  ],
+  "concepts": [
+    "что-clause",
+    "subordination",
+    "clause-boundary"
+  ],
+  "notes": [
+    "что peut signifier 'que' : Она говорит, что работает. = Elle dit qu'elle travaille.",
+    "Repère d'abord le verbe principal, puis ce qui vient après что."
+  ],
+  "examples": [
+    {
+      "ru": "Она говорит, что работает.",
+      "fr": "Elle dit qu'elle travaille."
+    },
+    {
+      "ru": "Я знаю, что он дома.",
+      "fr": "Je sais qu'il est à la maison."
+    },
+    {
+      "ru": "Он понимает, что заблудился.",
+      "fr": "Il comprend qu'il s'est perdu."
+    }
+  ]
+}

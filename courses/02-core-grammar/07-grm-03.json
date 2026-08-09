@@ -1,0 +1,36 @@
+{
+  "id": "GRM-03",
+  "order": 7,
+  "track": "core-grammar",
+  "level": "A1",
+  "title": "Genre et adjectifs simples",
+  "summary": "Commencer à reconnaître les accords les plus visibles au nominatif.",
+  "objectives": [
+    "Reconnaître des adjectifs masculins, féminins et neutres",
+    "Associer un adjectif à un nom courant",
+    "Lire sans mémoriser toutes les déclinaisons"
+  ],
+  "concepts": [
+    "gender",
+    "adjective-agreement",
+    "nominative"
+  ],
+  "notes": [
+    "Au nominatif, les adjectifs changent selon le genre : новый / новая / новое.",
+    "Ne cherche pas encore à maîtriser toutes les déclinaisons ; repère d'abord les formes."
+  ],
+  "examples": [
+    {
+      "ru": "новый телефон",
+      "fr": "un nouveau téléphone"
+    },
+    {
+      "ru": "новая машина",
+      "fr": "une nouvelle voiture"
+    },
+    {
+      "ru": "новое место",
+      "fr": "un nouvel endroit"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GRM-05",
+  "order": 13,
+  "track": "core-grammar",
+  "level": "A1",
+  "status": "active",
+  "title": "Où ou vers où ? — дома, домой, в/на",
+  "summary": "Distinguer une position d'une destination sans apprendre tout le système des cas d'un coup.",
+  "objectives": [
+    "Distinguer дома et домой",
+    "Reconnaître на кухне / на кухню",
+    "Reconnaître в гостинице / в гостиницу",
+    "Utiliser где et куда comme indices"
+  ],
+  "concepts": [
+    "location-vs-direction",
+    "дома",
+    "домой",
+    "где",
+    "куда"
+  ],
+  "notes": [
+    "Pose mentalement la question : où ? ou vers où ?"
+  ],
+  "examples": [
+    {
+      "ru": "Он дома.",
+      "fr": "Il est à la maison."
+    },
+    {
+      "ru": "Он идёт домой.",
+      "fr": "Il rentre chez lui."
+    },
+    {
+      "ru": "Он на кухне.",
+      "fr": "Il est dans la cuisine."
+    },
+    {
+      "ru": "Он идёт на кухню.",
+      "fr": "Il va dans la cuisine."
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p4-6",
+    "GH-RUSSIAN-MORNING-APP:serie-contextes"
+  ]
+}

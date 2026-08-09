@@ -1,0 +1,33 @@
+{
+  "id": "READ-02",
+  "order": 10,
+  "track": "reading",
+  "level": "A1-A2",
+  "title": "Mini-textes façon Telegram",
+  "summary": "Réutiliser les structures connues dans de courts textes naturels.",
+  "objectives": [
+    "Repérer des mots connus dans une phrase plus longue",
+    "Tolérer du vocabulaire inconnu sans bloquer",
+    "Identifier sujet, verbes, что et contexte"
+  ],
+  "concepts": [
+    "reading-strategy",
+    "context",
+    "telegram-style",
+    "known-structure-recognition"
+  ],
+  "notes": [
+    "Le but n'est pas de traduire chaque mot.",
+    "Repère d'abord les éléments que tu connais : pronoms, verbes, négation, что, destinations, temps."
+  ],
+  "examples": [
+    {
+      "ru": "Я хочу в лес, но не знаю, будет ли сегодня дождь.",
+      "fr": "J'ai envie d'aller en forêt, mais je ne sais pas s'il va pleuvoir aujourd'hui."
+    },
+    {
+      "ru": "Она говорит, что уже дома и немного устала.",
+      "fr": "Elle dit qu'elle est déjà à la maison et un peu fatiguée."
+    }
+  ]
+}

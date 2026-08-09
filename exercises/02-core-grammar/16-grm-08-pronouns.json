@@ -1,0 +1,230 @@
+{
+  "exercise_set": "16-grm-08-pronouns",
+  "items": [
+    {
+      "id": "GRM08-001",
+      "lesson_id": "GRM-08",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Complète : ___ зовут Тони.",
+      "answer": "Меня",
+      "concepts": [
+        "accusative-pronouns"
+      ],
+      "error_tags": [
+        "меня-vs-мне"
+      ],
+      "options": [
+        "Я",
+        "Меня",
+        "Мне",
+        "Мой"
+      ],
+      "source": "PDF:p4"
+    },
+    {
+      "id": "GRM08-002",
+      "lesson_id": "GRM-08",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Complète : ___ нравится кофе.",
+      "answer": "Мне",
+      "concepts": [
+        "dative-pronouns"
+      ],
+      "error_tags": [
+        "я-вместо-мне",
+        "меня-vs-мне"
+      ],
+      "options": [
+        "Я",
+        "Меня",
+        "Мне",
+        "Мой"
+      ]
+    },
+    {
+      "id": "GRM08-003",
+      "lesson_id": "GRM-08",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Traduis en russe : « Tu me vois ? »",
+      "answer": "Ты меня видишь?",
+      "concepts": [
+        "accusative-pronouns"
+      ],
+      "error_tags": [
+        "меня-vs-мне"
+      ],
+      "source": "GH:series-traduction/voir"
+    },
+    {
+      "id": "GRM08-004",
+      "lesson_id": "GRM-08",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Traduis en russe : « Je te vois. »",
+      "answer": "Я тебя вижу.",
+      "concepts": [
+        "accusative-pronouns"
+      ],
+      "error_tags": [
+        "тебя-vs-тебе"
+      ],
+      "source": "GH:series-traduction/voir"
+    },
+    {
+      "id": "GRM08-005",
+      "lesson_id": "GRM-08",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Traduis en russe : « Tu aimes le thé ? »",
+      "answer": "Тебе нравится чай?",
+      "concepts": [
+        "dative-pronouns"
+      ],
+      "error_tags": [
+        "тебя-vs-тебе"
+      ],
+      "source": "GH:series-traduction/aimer"
+    },
+    {
+      "id": "GRM08-006",
+      "lesson_id": "GRM-08",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Traduis en russe : « Elle aime cette voiture. »",
+      "answer": "Ей нравится эта машина.",
+      "concepts": [
+        "dative-pronouns"
+      ],
+      "error_tags": [
+        "ей-vs-её"
+      ],
+      "source": "GH:series-traduction/aimer"
+    },
+    {
+      "id": "GRM08-007",
+      "lesson_id": "GRM-08",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Dans « Она сказала мне нет », мне signifie :",
+      "answer": "à moi",
+      "concepts": [
+        "dative-pronouns"
+      ],
+      "error_tags": [
+        "меня-vs-мне"
+      ],
+      "options": [
+        "je",
+        "me comme objet direct",
+        "à moi",
+        "mon"
+      ],
+      "source": "GH:series-traduction/dire"
+    },
+    {
+      "id": "GRM08-008",
+      "lesson_id": "GRM-08",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Dans « Она спросила меня », меня est :",
+      "answer": "la personne interrogée",
+      "concepts": [
+        "accusative-pronouns"
+      ],
+      "error_tags": [
+        "меня-vs-мне"
+      ],
+      "options": [
+        "celle qui pose la question",
+        "la personne interrogée",
+        "un lieu",
+        "un possessif"
+      ],
+      "source": "GH:series-traduction/demander"
+    },
+    {
+      "id": "GRM08-009",
+      "lesson_id": "GRM-08",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "« Je te demande de venir » → Я прошу ___ прийти.",
+      "answer": "тебя",
+      "concepts": [
+        "просить"
+      ],
+      "error_tags": [
+        "тебя-vs-тебе",
+        "спрашивать-vs-просить"
+      ],
+      "options": [
+        "ты",
+        "тебя",
+        "тебе",
+        "твой"
+      ],
+      "source": "GH:series-traduction/demander"
+    },
+    {
+      "id": "GRM08-010",
+      "lesson_id": "GRM-08",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "« Cela te plaît » → ___ нравится.",
+      "answer": "Тебе",
+      "concepts": [
+        "dative-pronouns"
+      ],
+      "error_tags": [
+        "тебя-vs-тебе"
+      ],
+      "options": [
+        "Ты",
+        "Тебя",
+        "Тебе",
+        "Твой"
+      ]
+    },
+    {
+      "id": "GRM08-011",
+      "lesson_id": "GRM-08",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Traduis : « Мне трудно отвечать. »",
+      "answer": "J'ai du mal à répondre.",
+      "concepts": [
+        "dative-pronouns"
+      ],
+      "error_tags": [
+        "literal-translation"
+      ],
+      "acceptable_answers": [
+        "C'est difficile pour moi de répondre."
+      ],
+      "source": "PDF:p17"
+    },
+    {
+      "id": "GRM08-012",
+      "lesson_id": "GRM-08",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Quel couple est cohérent ?",
+      "answer": "Меня зовут / Мне нравится",
+      "concepts": [
+        "pronoun-cases"
+      ],
+      "error_tags": [
+        "меня-vs-мне",
+        "я-вместо-мне"
+      ],
+      "options": [
+        "Меня зовут / Мне нравится",
+        "Мне зовут / Меня нравится",
+        "Я зовут / Я нравится",
+        "Меня нравится / Мне зовут"
+      ]
+    }
+  ]
+}

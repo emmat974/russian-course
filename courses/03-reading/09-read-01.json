@@ -1,0 +1,32 @@
+{
+  "id": "READ-01",
+  "order": 9,
+  "track": "reading",
+  "level": "A1",
+  "title": "Temps et chronologie : через",
+  "summary": "Lire des phrases courtes avec через + durée.",
+  "objectives": [
+    "Reconnaître через comme 'dans / après' selon le contexte",
+    "Comprendre через десять минут",
+    "Découper une petite narration"
+  ],
+  "concepts": [
+    "через",
+    "time-expression",
+    "chronology"
+  ],
+  "notes": [
+    "Через десять минут = dix minutes plus tard / dans dix minutes selon le point de vue.",
+    "Concentre-toi sur la chronologie globale avant les détails de cas."
+  ],
+  "examples": [
+    {
+      "ru": "Через десять минут он понимает, что заблудился.",
+      "fr": "Dix minutes plus tard, il comprend qu'il s'est perdu."
+    },
+    {
+      "ru": "Через час мы дома.",
+      "fr": "Dans une heure, nous sommes à la maison."
+    }
+  ]
+}

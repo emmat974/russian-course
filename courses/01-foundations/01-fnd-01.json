@@ -1,0 +1,40 @@
+{
+  "id": "FND-01",
+  "order": 1,
+  "track": "foundations",
+  "level": "A0-A1",
+  "title": "Pronoms et phrases simples",
+  "summary": "Identifier qui fait l'action et construire des phrases très simples sans translittération.",
+  "objectives": [
+    "Reconnaître я, ты, он, она, мы, вы, они",
+    "Comprendre quand le pronom peut être omis ou conservé",
+    "Lire des phrases simples sujet + verbe"
+  ],
+  "concepts": [
+    "personal-pronouns",
+    "simple-svo",
+    "subject-identification"
+  ],
+  "notes": [
+    "En russe, le sujet est souvent visible grâce au pronom ou à la terminaison du verbe.",
+    "Au début, garde les pronoms quand cela t'aide à lire. Plus tard, tu verras qu'ils peuvent parfois être omis dans le contexte."
+  ],
+  "examples": [
+    {
+      "ru": "Я работаю.",
+      "fr": "Je travaille."
+    },
+    {
+      "ru": "Она говорит.",
+      "fr": "Elle parle."
+    },
+    {
+      "ru": "Мы читаем.",
+      "fr": "Nous lisons."
+    },
+    {
+      "ru": "Они знают.",
+      "fr": "Ils/Elles savent."
+    }
+  ]
+}

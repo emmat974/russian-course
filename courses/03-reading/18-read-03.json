@@ -1,0 +1,32 @@
+{
+  "id": "READ-03",
+  "order": 18,
+  "track": "reading",
+  "level": "A1",
+  "status": "active",
+  "title": "Lecture : arrivée à Moscou et café",
+  "summary": "Comprendre la situation générale, puis repérer les phrases utiles du premier chapitre.",
+  "objectives": [
+    "Identifier arrivée, fatigue et hôtel",
+    "Comprendre le problème de vitesse de parole",
+    "Suivre une commande simple"
+  ],
+  "concepts": [
+    "reading-strategy",
+    "cafe",
+    "travel",
+    "politeness"
+  ],
+  "notes": [
+    "Lis d'abord pour la situation globale."
+  ],
+  "examples": [
+    {
+      "ru": "Тони понимает не всё, но уже может сказать несколько полезных фраз.",
+      "fr": "Tony ne comprend pas tout, mais il peut déjà dire quelques phrases utiles."
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p1-3"
+  ]
+}

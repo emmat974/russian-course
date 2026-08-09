@@ -1,0 +1,41 @@
+{
+  "id": "GRM-02",
+  "order": 6,
+  "track": "core-grammar",
+  "level": "A1",
+  "title": "Terminaisons verbales au présent",
+  "summary": "Repérer les terminaisons fréquentes sans apprendre toutes les conjugaisons d'un coup.",
+  "objectives": [
+    "Associer -ю/-у à la 1re personne singulier dans des verbes fréquents",
+    "Reconnaître -ет/-ит à la 3e personne singulier",
+    "Reconnaître -ешь/-ишь à la 2e personne singulier"
+  ],
+  "concepts": [
+    "present-tense",
+    "verb-endings",
+    "first-conjugation",
+    "second-conjugation"
+  ],
+  "notes": [
+    "À ce stade, le but est surtout de reconnaître des formes fréquentes.",
+    "Les terminaisons donnent souvent un indice sur le sujet, mais il existe des irrégularités."
+  ],
+  "examples": [
+    {
+      "ru": "Я читаю.",
+      "fr": "Je lis."
+    },
+    {
+      "ru": "Он читает.",
+      "fr": "Il lit."
+    },
+    {
+      "ru": "Ты говоришь.",
+      "fr": "Tu parles."
+    },
+    {
+      "ru": "Она работает.",
+      "fr": "Elle travaille."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "READ-05",
+  "order": 20,
+  "track": "reading",
+  "level": "A1",
+  "status": "active",
+  "title": "Lecture : Tony se perd dans Moscou",
+  "summary": "Chronologie, orientation, demande d'aide et indications simples.",
+  "objectives": [
+    "Comprendre pourquoi Tony est perdu",
+    "Repérer через + durée",
+    "Comprendre прямо / налево / направо"
+  ],
+  "concepts": [
+    "reading-strategy",
+    "directions",
+    "через",
+    "что-clause"
+  ],
+  "notes": [
+    "Utilise la phrase avec Через десять минут comme point d'entrée."
+  ],
+  "examples": [
+    {
+      "ru": "Через десять минут он понимает, что заблудился.",
+      "fr": "Dix minutes plus tard, il comprend qu'il s'est perdu."
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p7-9"
+  ]
+}

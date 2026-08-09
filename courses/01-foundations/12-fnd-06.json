@@ -1,0 +1,47 @@
+{
+  "id": "FND-06",
+  "order": 12,
+  "track": "foundations",
+  "level": "A1",
+  "status": "active",
+  "title": "Se présenter et parler de sa famille",
+  "summary": "Меня зовут, Очень приятно, Мне тоже et premières structures pour parler de sa famille.",
+  "objectives": [
+    "Se présenter naturellement",
+    "Répondre 'moi aussi' selon la construction",
+    "Comprendre у меня есть",
+    "Parler simplement de sa famille"
+  ],
+  "concepts": [
+    "меня-зовут",
+    "мне-тоже",
+    "possession",
+    "family"
+  ],
+  "notes": [
+    "Меня зовут se mémorise comme un bloc.",
+    "Мне тоже et Я тоже dépendent de la construction précédente."
+  ],
+  "examples": [
+    {
+      "ru": "Меня зовут Тони.",
+      "fr": "Je m'appelle Tony."
+    },
+    {
+      "ru": "Очень приятно.",
+      "fr": "Enchanté."
+    },
+    {
+      "ru": "Мне тоже.",
+      "fr": "Moi aussi."
+    },
+    {
+      "ru": "У меня есть один брат.",
+      "fr": "J'ai un frère."
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p4-6",
+    "GH-RUSSIAN-MORNING-APP:banque-ch2-dialogue"
+  ]
+}

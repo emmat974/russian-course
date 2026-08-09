@@ -1,0 +1,38 @@
+{
+  "id": "FND-02",
+  "order": 2,
+  "track": "foundations",
+  "level": "A1",
+  "title": "Ne pas savoir, parler, comprendre",
+  "summary": "Manipuler не avec des verbes très fréquents et distinguer говорить / понимать / знать.",
+  "objectives": [
+    "Former une négation simple avec не",
+    "Distinguer parler, comprendre et savoir",
+    "Répondre avec peut-être / je ne sais pas"
+  ],
+  "concepts": [
+    "negation",
+    "говорить",
+    "понимать",
+    "знать",
+    "может-быть"
+  ],
+  "notes": [
+    "не se place directement devant le verbe : Я не знаю.",
+    "говорить = parler ; понимать = comprendre ; знать = savoir/connaître."
+  ],
+  "examples": [
+    {
+      "ru": "Я немного говорю по-русски.",
+      "fr": "Je parle un peu russe."
+    },
+    {
+      "ru": "Я не понимаю.",
+      "fr": "Je ne comprends pas."
+    },
+    {
+      "ru": "Может быть, не знаю.",
+      "fr": "Peut-être, je ne sais pas."
+    }
+  ]
+}

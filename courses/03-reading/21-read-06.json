@@ -1,0 +1,32 @@
+{
+  "id": "READ-06",
+  "order": 21,
+  "track": "reading",
+  "level": "A1-A2",
+  "status": "preview",
+  "title": "Lecture : le dîner au restaurant",
+  "summary": "Choisir, conseiller, goûter et exprimer qu'un plat plaît.",
+  "objectives": [
+    "Comprendre ce qui est commandé",
+    "Repérer нравится avec un aliment",
+    "Comprendre воду без газа"
+  ],
+  "concepts": [
+    "restaurant",
+    "нравиться",
+    "food",
+    "reading-strategy"
+  ],
+  "notes": [
+    "Ce chapitre réutilise нравится en contexte."
+  ],
+  "examples": [
+    {
+      "ru": "Борщ ему нравится.",
+      "fr": "Le bortsch lui plaît."
+    }
+  ],
+  "source_refs": [
+    "PDF-FIRST-WEEK-TONY:p10-12"
+  ]
+}
