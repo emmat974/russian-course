@@ -20,7 +20,25 @@
         "Мне",
         "Мой"
       ],
-      "source": "PDF:p4"
+      "source": "PDF:p4",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM08-002",
@@ -41,7 +59,25 @@
         "Меня",
         "Мне",
         "Мой"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM08-003",
@@ -56,7 +92,26 @@
       "error_tags": [
         "меня-vs-мне"
       ],
-      "source": "GH:series-traduction/voir"
+      "source": "GH:series-traduction/voir",
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM08-004",
@@ -71,7 +126,26 @@
       "error_tags": [
         "тебя-vs-тебе"
       ],
-      "source": "GH:series-traduction/voir"
+      "source": "GH:series-traduction/voir",
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM08-005",
@@ -86,7 +160,26 @@
       "error_tags": [
         "тебя-vs-тебе"
       ],
-      "source": "GH:series-traduction/aimer"
+      "source": "GH:series-traduction/aimer",
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM08-006",
@@ -101,7 +194,26 @@
       "error_tags": [
         "ей-vs-её"
       ],
-      "source": "GH:series-traduction/aimer"
+      "source": "GH:series-traduction/aimer",
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM08-007",
@@ -122,7 +234,25 @@
         "à moi",
         "mon"
       ],
-      "source": "GH:series-traduction/dire"
+      "source": "GH:series-traduction/dire",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM08-008",
@@ -143,7 +273,25 @@
         "un lieu",
         "un possessif"
       ],
-      "source": "GH:series-traduction/demander"
+      "source": "GH:series-traduction/demander",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM08-009",
@@ -165,7 +313,25 @@
         "тебе",
         "твой"
       ],
-      "source": "GH:series-traduction/demander"
+      "source": "GH:series-traduction/demander",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM08-010",
@@ -185,7 +351,25 @@
         "Тебя",
         "Тебе",
         "Твой"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM08-011",
@@ -203,7 +387,26 @@
       "acceptable_answers": [
         "C'est difficile pour moi de répondre."
       ],
-      "source": "PDF:p17"
+      "source": "PDF:p17",
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM08-012",
@@ -224,7 +427,25 @@
         "Мне зовут / Меня нравится",
         "Я зовут / Я нравится",
         "Меня нравится / Мне зовут"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     }
   ]
 }

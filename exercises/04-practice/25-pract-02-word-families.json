@@ -20,7 +20,25 @@
         "семьи",
         "семью"
       ],
-      "source": "GH:serie-familles"
+      "source": "GH:serie-familles",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-002",
@@ -41,7 +59,25 @@
         "фотографию",
         "фотографии"
       ],
-      "source": "GH:serie-familles"
+      "source": "GH:serie-familles",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-003",
@@ -62,7 +98,25 @@
         "гостиницу",
         "гостиницы"
       ],
-      "source": "GH:serie-familles"
+      "source": "GH:serie-familles",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-004",
@@ -83,7 +137,25 @@
         "другие",
         "доволен"
       ],
-      "source": "GH:serie-familles"
+      "source": "GH:serie-familles",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-005",
@@ -104,7 +176,25 @@
         "семь",
         "себя"
       ],
-      "source": "GH:serie-familles"
+      "source": "GH:serie-familles",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-006",
@@ -125,7 +215,25 @@
         "спрашивать",
         "показывает"
       ],
-      "source": "GH:serie-familles"
+      "source": "GH:serie-familles",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-007",
@@ -146,7 +254,25 @@
         "отвечать",
         "объяснять"
       ],
-      "source": "GH:serie-familles"
+      "source": "GH:serie-familles",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-008",
@@ -167,7 +293,25 @@
         "утра",
         "вечером"
       ],
-      "source": "GH:serie-formes"
+      "source": "GH:serie-formes",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-009",
@@ -188,7 +332,25 @@
         "готово",
         "готовы"
       ],
-      "source": "GH:serie-rappel"
+      "source": "GH:serie-rappel",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-010",
@@ -209,7 +371,25 @@
         "доброе",
         "добрые"
       ],
-      "source": "GH:serie-rappel"
+      "source": "GH:serie-rappel",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-011",
@@ -230,7 +410,25 @@
         "заказывает",
         "заказывают"
       ],
-      "source": "GH:serie-rappel"
+      "source": "GH:serie-rappel",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-012",
@@ -251,7 +449,25 @@
         "показывает",
         "показывают"
       ],
-      "source": "GH:serie-rappel"
+      "source": "GH:serie-rappel",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-013",
@@ -272,7 +488,25 @@
         "fait maison",
         "de la maison"
       ],
-      "source": "GH:serie-contextes"
+      "source": "GH:serie-contextes",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-014",
@@ -293,7 +527,25 @@
         "fait maison",
         "maison"
       ],
-      "source": "GH:serie-contextes"
+      "source": "GH:serie-contextes",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-015",
@@ -314,7 +566,25 @@
         "fait maison",
         "de la maison"
       ],
-      "source": "GH:serie-contextes"
+      "source": "GH:serie-contextes",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-016",
@@ -335,7 +605,25 @@
         "un verbe",
         "un adjectif"
       ],
-      "source": "GH:serie-ecriture-contextuelle"
+      "source": "GH:serie-ecriture-contextuelle",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-017",
@@ -357,7 +645,25 @@
         "фотографию",
         "фотографий"
       ],
-      "source": "GH:serie-formes"
+      "source": "GH:serie-formes",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-018",
@@ -378,7 +684,25 @@
         "семью",
         "семейную"
       ],
-      "source": "GH:serie-formes"
+      "source": "GH:serie-formes",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-019",
@@ -399,7 +723,25 @@
         "воду",
         "водой"
       ],
-      "source": "GH:serie-ecriture-contextuelle"
+      "source": "GH:serie-ecriture-contextuelle",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "PRACT02-020",
@@ -420,7 +762,25 @@
         "гостиную",
         "гостиные"
       ],
-      "source": "GH:serie-ecriture-contextuelle"
+      "source": "GH:serie-ecriture-contextuelle",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     }
   ]
 }

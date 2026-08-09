@@ -21,7 +21,25 @@
         "Acheter un téléphone.",
         "Lire un livre."
       ],
-      "context": "Я хочу в лес, но не знаю, будет ли сегодня дождь."
+      "context": "Я хочу в лес, но не знаю, будет ли сегодня дождь.",
+      "schema_version": "3.0.0",
+      "activity_type": "reading_comprehension",
+      "renderer_id": "reading_comprehension",
+      "skill_dimensions": {
+        "comprehension": 0.8,
+        "recognition": 0.2
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "READ02-002",
@@ -43,7 +61,25 @@
         "Qui travaille.",
         "Quelle heure il est."
       ],
-      "context": "Я хочу в лес, но не знаю, будет ли сегодня дождь."
+      "context": "Я хочу в лес, но не знаю, будет ли сегодня дождь.",
+      "schema_version": "3.0.0",
+      "activity_type": "reading_comprehension",
+      "renderer_id": "reading_comprehension",
+      "skill_dimensions": {
+        "comprehension": 0.8,
+        "recognition": 0.2
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "READ02-003",
@@ -59,7 +95,26 @@
       "error_tags": [
         "clause-boundary",
         "connector-meaning"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "READ02-004",
@@ -80,7 +135,25 @@
         "что",
         "дома",
         "немного"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "READ02-005",
@@ -102,7 +175,25 @@
         "La ville.",
         "La forêt."
       ],
-      "context": "Мне нравится эта фотография, но я не знаю, где это место."
+      "context": "Мне нравится эта фотография, но я не знаю, где это место.",
+      "schema_version": "3.0.0",
+      "activity_type": "reading_comprehension",
+      "renderer_id": "reading_comprehension",
+      "skill_dimensions": {
+        "comprehension": 0.8,
+        "recognition": 0.2
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "READ02-006",
@@ -124,7 +215,25 @@
         "Pourquoi elle aime la photo.",
         "Quel appareil a été utilisé."
       ],
-      "context": "Мне нравится эта фотография, но я не знаю, где это место."
+      "context": "Мне нравится эта фотография, но я не знаю, где это место.",
+      "schema_version": "3.0.0",
+      "activity_type": "reading_comprehension",
+      "renderer_id": "reading_comprehension",
+      "skill_dimensions": {
+        "comprehension": 0.8,
+        "recognition": 0.2
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "READ02-007",
@@ -140,7 +249,26 @@
       ],
       "error_tags": [
         "direction-vs-location"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "READ02-008",
@@ -160,7 +288,25 @@
         "traduire chaque lettre",
         "repérer les structures et mots connus",
         "chercher toutes les déclinaisons"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "READ02-009",
@@ -183,7 +329,25 @@
         "Elle est perdue.",
         "Elle aime le café."
       ],
-      "context": "Через десять минут она говорит, что хочет домой."
+      "context": "Через десять минут она говорит, что хочет домой.",
+      "schema_version": "3.0.0",
+      "activity_type": "reading_comprehension",
+      "renderer_id": "reading_comprehension",
+      "skill_dimensions": {
+        "comprehension": 0.8,
+        "recognition": 0.2
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "READ02-010",
@@ -199,7 +363,26 @@
       ],
       "error_tags": [
         "говорить-vs-понимать"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "READ02-011",
@@ -220,7 +403,25 @@
         "Elle marche et elle lit.",
         "Elle parle et elle écrit."
       ],
-      "context": "Она читает книгу и иногда говорит по-русски."
+      "context": "Она читает книгу и иногда говорит по-русски.",
+      "schema_version": "3.0.0",
+      "activity_type": "reading_comprehension",
+      "renderer_id": "reading_comprehension",
+      "skill_dimensions": {
+        "comprehension": 0.8,
+        "recognition": 0.2
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "READ02-012",
@@ -236,7 +437,26 @@
       "error_tags": [
         "нравится-vs-нравятся",
         "context-miss"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     }
   ]
 }

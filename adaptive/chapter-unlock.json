@@ -1,0 +1,27 @@
+{
+  "schema_version": "2.0.0",
+  "soft_unlock": {
+    "description": "Le chapitre suivant peut être ouvert avant la maîtrise long terme si la compréhension immédiate est solide; les révisions du chapitre précédent continuent.",
+    "requirements": {
+      "overall_score": 0.82,
+      "production_score": 0.72,
+      "comprehension_score": 0.78,
+      "minimum_distinct_activities": 12,
+      "critical_error_rate_max": 0.3
+    },
+    "result_state": "consolidating"
+  },
+  "mastered": {
+    "requirements": {
+      "overall_score": 0.84,
+      "delayed_review_min_hours": 48,
+      "delayed_review_score": 0.76,
+      "critical_error_rate_max": 0.25
+    },
+    "result_state": "mastered"
+  },
+  "fallback": {
+    "if_not_ready": "Keep chapter open; build a targeted mixed session from weak concepts and error tags.",
+    "if_pronunciation_unavailable": "Pronunciation dimension becomes non-blocking and weights are renormalized."
+  }
+}

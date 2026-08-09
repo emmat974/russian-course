@@ -19,7 +19,25 @@
         "она",
         "они",
         "мы"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "FND01-002",
@@ -39,7 +57,25 @@
         "мы",
         "вы",
         "она"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "FND01-003",
@@ -59,7 +95,26 @@
       "acceptable_answers": [
         "Я работаю",
         "Работаю."
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "FND01-004",
@@ -78,7 +133,26 @@
       "acceptable_answers": [
         "Elle parle",
         "Elle dit."
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "FND01-005",
@@ -96,7 +170,26 @@
       "tokens": [
         "читаем",
         "Мы"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "reorder_tokens",
+      "renderer_id": "reorder_tokens",
+      "skill_dimensions": {
+        "recognition": 0.25,
+        "comprehension": 0.25,
+        "production": 0.5
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "FND01-006",
@@ -116,7 +209,25 @@
         "Il",
         "Ils / Elles",
         "Nous"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "FND01-007",
@@ -131,7 +242,26 @@
       ],
       "error_tags": [
         "pronoun-confusion"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "fill_blank",
+      "renderer_id": "fill_blank",
+      "skill_dimensions": {
+        "recognition": 0.15,
+        "recall": 0.45,
+        "production": 0.4
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "FND01-008",
@@ -150,7 +280,26 @@
       "acceptable_answers": [
         "Она",
         "Он"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "fill_blank",
+      "renderer_id": "fill_blank",
+      "skill_dimensions": {
+        "recognition": 0.15,
+        "recall": 0.45,
+        "production": 0.4
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "FND01-009",
@@ -170,7 +319,25 @@
         "Она читает",
         "Мы читаем",
         "Он знает"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "FND01-010",
@@ -189,7 +356,26 @@
       "acceptable_answers": [
         "Они читают",
         "Читают."
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     }
   ]
 }

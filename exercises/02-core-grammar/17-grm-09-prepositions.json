@@ -20,7 +20,25 @@
         "у",
         "о"
       ],
-      "source": "GH:banque-ch2-recit"
+      "source": "GH:banque-ch2-recit",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM09-002",
@@ -41,7 +59,25 @@
         "vers l'hôtel",
         "derrière l'hôtel"
       ],
-      "source": "GH:serie-contextes"
+      "source": "GH:serie-contextes",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM09-003",
@@ -61,7 +97,25 @@
         "гостинице",
         "гостиницу",
         "гостиницей"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM09-004",
@@ -82,7 +136,25 @@
         "сахаром",
         "сахаре"
       ],
-      "source": "PDF:p2"
+      "source": "PDF:p2",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM09-005",
@@ -103,7 +175,25 @@
         "сахаром",
         "сахаре"
       ],
-      "source": "PDF:p2"
+      "source": "PDF:p2",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM09-006",
@@ -117,7 +207,26 @@
       ],
       "error_tags": [
         "без-genitive"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM09-007",
@@ -131,7 +240,26 @@
       ],
       "error_tags": [
         "с-instrumental"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM09-008",
@@ -150,7 +278,26 @@
       "acceptable_answers": [
         "Я разговариваю с Анастасией."
       ],
-      "source": "GH:series-traduction/dire"
+      "source": "GH:series-traduction/dire",
+      "schema_version": "3.0.0",
+      "activity_type": "translation_input",
+      "renderer_id": "translation_input",
+      "skill_dimensions": {
+        "recall": 0.25,
+        "production": 0.65,
+        "comprehension": 0.1
+      },
+      "scoring": {
+        "mode": "normalized_text",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM09-009",
@@ -172,7 +319,25 @@
         "vers",
         "près de"
       ],
-      "source": "PDF:p11"
+      "source": "PDF:p11",
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     },
     {
       "id": "GRM09-010",
@@ -192,7 +357,25 @@
         "mémoriser d'abord les blocs fréquents puis généraliser",
         "ignorer les prépositions",
         "traduire chaque terminaison isolément"
-      ]
+      ],
+      "schema_version": "3.0.0",
+      "activity_type": "choice_single",
+      "renderer_id": "choice_single",
+      "skill_dimensions": {
+        "recognition": 0.65,
+        "comprehension": 0.35
+      },
+      "scoring": {
+        "mode": "exact_or_accepted",
+        "max_score": 1.0,
+        "hint_penalty": 0.25,
+        "dont_know_score": 0.0
+      },
+      "review": {
+        "eligible": true,
+        "same_item_cooldown_sessions": 3,
+        "prefer_variant_on_failure": true
+      }
     }
   ]
 }

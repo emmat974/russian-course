@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0.0",
+  "principle": "Mastery is concept-based and evidence-based. Repeating one prompt cannot by itself create mastery.",
+  "states": [
+    {
+      "id": "new",
+      "description": "Jamais réellement évalué."
+    },
+    {
+      "id": "introduced",
+      "description": "Vu dans un cours mais preuve insuffisante."
+    },
+    {
+      "id": "learning",
+      "description": "Réussites présentes mais encore instables."
+    },
+    {
+      "id": "short_term_stable",
+      "description": "Bon résultat immédiat sur plusieurs formats et prompts."
+    },
+    {
+      "id": "consolidating",
+      "description": "Chapitre potentiellement débloquable; révision différée en attente."
+    },
+    {
+      "id": "mastered",
+      "description": "Maîtrise confirmée par au moins une révision différée."
+    },
+    {
+      "id": "fragile",
+      "description": "Concept auparavant stable qui échoue après délai."
+    },
+    {
+      "id": "relearning",
+      "description": "Retour actif après oubli ou série d’erreurs."
+    }
+  ],
+  "evidence_rules": {
+    "same_prompt_daily_cap": 0.18,
+    "distinct_prompt_bonus": 0.08,
+    "different_activity_type_bonus": 0.06,
+    "unassisted_production_bonus": 0.12,
+    "hinted_answer_multiplier": 0.6,
+    "dont_know_multiplier": 0.0,
+    "fast_guess_protection": "Do not reward speed by itself; correctness + diversity + delay matter more.",
+    "minimum_attempts_for_stable_score": 6,
+    "minimum_distinct_items_for_concept_mastery": 4,
+    "minimum_activity_types_for_concept_mastery": 2
+  },
+  "dimension_scores": [
+    "recognition",
+    "comprehension",
+    "recall",
+    "production",
+    "listening",
+    "pronunciation"
+  ],
+  "critical_rule": "A high overall score cannot hide a critical repeated error tag. Track tags independently."
+}

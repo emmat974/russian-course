@@ -1,11 +1,11 @@
 {
-  "content_version": "0.2.0",
-  "schema_version": "1.1.0",
+  "content_version": "0.3.0",
+  "schema_version": "3.0.0",
   "language": "ru",
   "interface_language": "fr",
   "generated_for_level": "A1 with controlled A1-A2 preview",
-  "updated_at": "2026-08-09",
-  "description": "Corpus adaptatif personnel de russe : cours structurés, lecture, formes, traduction active et classification fine des erreurs.",
+  "updated_at": "2026-08-09T10:07:00+04:00",
+  "description": "Content API 3.0: rich course sessions, mixed exercise renderers, pronunciation/listening, concept mastery, delayed validation and evolutive content packs.",
   "courses": [
     "courses/01-foundations/01-fnd-01.json",
     "courses/01-foundations/02-fnd-02.json",
@@ -60,7 +60,15 @@
     "exercises/03-reading/23-read-08-epilogue.json",
     "exercises/04-practice/24-pract-01-active-translation.json",
     "exercises/04-practice/25-pract-02-word-families.json",
-    "exercises/04-practice/26-pract-03-verb-choice.json"
+    "exercises/04-practice/26-pract-03-verb-choice.json",
+    "exercises/05-v3-mixed/31-phrase-completion.json",
+    "exercises/05-v3-mixed/32-listen-type.json",
+    "exercises/05-v3-mixed/33-pronunciation.json",
+    "exercises/05-v3-mixed/34-self-explain.json",
+    "exercises/05-v3-mixed/35-text-input-vocabulary.json",
+    "exercises/05-v3-mixed/36-reorder-expanded.json",
+    "exercises/05-v3-mixed/37-cloze-text.json",
+    "exercises/05-v3-mixed/38-match-pairs.json"
   ],
   "vocabulary_sets": [
     "vocabulary/city-directions.json",
@@ -135,5 +143,23 @@
     "pdf_original": "sources/pdf/original/Première semaine de Tony en Russie.pdf",
     "pdf_parsed": "sources/pdf/first-week-tony-pages.json",
     "github_source_map": "sources/github/russian-morning-app-map.json"
-  }
+  },
+  "content_api_version": "3.0",
+  "catalogs": [
+    "catalog/activity-types.json",
+    "catalog/lesson-block-types.json",
+    "catalog/curriculum.json",
+    "catalog/content-packs.json",
+    "pronunciation/targets.json",
+    "pronunciation/stress-dictionary.json",
+    "adaptive/mastery-policy.json",
+    "adaptive/spaced-review.json",
+    "adaptive/session-profiles.json",
+    "adaptive/chapter-unlock.json",
+    "adaptive/remediation-map.json"
+  ],
+  "compatibility_file": "compatibility.json",
+  "release_file": "release.json",
+  "lock_file": "manifest-lock.json",
+  "architecture_principle": "Content changes should not require an app release while using Content API 3.0 and registered renderers."
 }

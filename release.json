@@ -1,0 +1,10 @@
+{
+  "content_version": "0.3.0",
+  "content_api_version": "3.0",
+  "schema_version": "3.0.0",
+  "released_at": "2026-08-09T10:07:00+04:00",
+  "channel": "stable",
+  "min_app_version": "0.1.0",
+  "requires_app_update": false,
+  "summary": "Rich lessons + mixed activities + pronunciation contract + adaptive mastery/SRS + evolutive content packs."
+}
